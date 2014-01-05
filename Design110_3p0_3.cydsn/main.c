@@ -14,6 +14,7 @@
 int main()
 {
     /* Place your initialization/startup code here (e.g. MyInst_Start()) */
+    uint16  value;
 
     /* CyGlobalIntEnable; */ /* Uncomment this line to enable global interrupts. */
     for(;;)
